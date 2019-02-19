@@ -1,2 +1,2 @@
-# rsschool-2019Q1-codeacademy
-codecademy
+Anton Dvornikov
+HTML CSS Basics: https://www.codecademy.com/bydesp/achievements
